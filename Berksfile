@@ -13,3 +13,4 @@ cookbook 'hops', github: "logicalclocks/hops-hadoop-chef", branch: "1.0"
 
 cookbook 'elasticsearch', '~> 4.0.0'
 
+cookbook 'ark', '= 5.0.0'
