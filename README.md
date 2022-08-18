@@ -1,0 +1,1 @@
+# hopslog-chef
